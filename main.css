@@ -1,0 +1,45 @@
+h1 {
+	color: red;
+}
+.desc1 {
+	background: blue;
+	width: 100px;
+	margin-bottom: 100px;
+}   
+p span{
+	color: red;
+}
+.title2 {
+	color:  white;
+	background: green;
+	display: block;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+.title3 {
+	display: block;
+	background: green;
+	color: white;
+	padding: 30px;
+}
+.desc2 {
+	margin-left: 100px;
+}
+.list1 {
+	border: 1px solid black;
+	font-size: 30px;
+}
+.list2 {
+	border: 1px solid black;
+	font-size: 30px;
+}
+.list3 {
+	border: 1px solid black;
+	font-size: 30px;
+}
+.title4{
+	background: green;
+	padding: 5px;
+	color: white;
+}
+
